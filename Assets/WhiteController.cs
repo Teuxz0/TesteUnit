@@ -2,6 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+//Este codigo faz um joystick mover um quadrado branco (personagem principal)
+//Quando este personagem controlado toca o objeto central, ele fica rosa
+
 public class WhiteController : MonoBehaviour
 {
     //A linha baixo e necessaria para uso do Asset Joystick Pack
